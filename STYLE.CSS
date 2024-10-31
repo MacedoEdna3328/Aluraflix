@@ -15,3 +15,11 @@ div{
 .chamada-texto {
     margin-right: 5%;
 }
+img{
+    height: 200px;
+}
+categoria-Vídeos{
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
